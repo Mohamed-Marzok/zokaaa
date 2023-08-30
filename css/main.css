@@ -1851,7 +1851,7 @@ a {
         padding: 5px 50px 5px 5px;}
         .log-in .content .right textarea {
             padding: 5px 50px 5px 5px;
-}
+}}
 .log-in .content .right input[type="button"] {
     background-color: var(--main-color);
     color: white;
