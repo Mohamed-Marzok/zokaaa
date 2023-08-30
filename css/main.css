@@ -1846,7 +1846,12 @@ a {
     border-bottom: 1px solid #ccc;
     outline: none;
 }
-
+@media(max-width:768px){
+    .log-in .content .right input {
+        padding: 5px 50px 5px 5px;}
+        .log-in .content .right textarea {
+            padding: 5px 50px 5px 5px;
+}
 .log-in .content .right input[type="button"] {
     background-color: var(--main-color);
     color: white;
